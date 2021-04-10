@@ -4,4 +4,16 @@ source venv/Scripts/activate
 
 untuk mengetik di VIM tekan 'i'
 
-linkter(git pre-commit) : untuk memvalidasi kode kita sebelum melakukan push
+linter(git pre-commit) : untuk memvalidasi kode kita sebelum melakukan push
+
+menggunakan pre-commit :
+git add .
+git commit
+git git push
+
+
+cara menghapus cached pada git
+git rm -r --cached -f .idea
+
+
+TDD : melakukan test sebelum membuat code program
