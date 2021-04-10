@@ -17,3 +17,10 @@ git rm -r --cached -f .idea
 
 
 TDD : melakukan test sebelum membuat code program
+TDD : test driven development
+
+REST : Representsional state transfer
+
+Rest need 2 end point :
+- for creating
+- for Update,Delete (need specific id)
